@@ -82,11 +82,11 @@ The final fish in the evolution chain is the Whale Shark and they will start spa
 - Avoid Walls
   - You will also notice that all fish remain contained within the game window and once they come in contact with the borders they swim away as if they’re being repelled. 
 
-#### Fish at a lower stage than you 
+### Fish at a lower stage than you 
 - Flee 
   - All fish that are at a lower stage than you are currently will display an additional behavior, “flee” whenever you enter their FoV. This behavior causes fish that you are able to eat to swim away from you until you are out of the FoV. So the fish with this additional behavior will switch between the three behavior states (“wander”, “avoid walls”, “flee”) when appropriate
 
-#### Fish at a higher stage than you 
+### Fish at a higher stage than you 
 - Attack 
   - All fish that are at a higher stage than you are currently will display an additional behavior, “attack” whenever you enter their FoV. This behavior causes fish that are able to eat you to swim towards you as long as you’re in their FoV. So the fish with this additional behavior will switch between the three behavior states (“wander”, “avoid walls”, “attack”) when appropriate.
 
