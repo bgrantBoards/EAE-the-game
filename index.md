@@ -1,5 +1,4 @@
 ## User
-[picture] of Black Goldfish
 
 **Abilities**: Boost & Evolve
 
